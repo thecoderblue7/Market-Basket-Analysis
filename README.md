@@ -1,5 +1,6 @@
 **Market Basket Analysis for E-commerce in Python**
-This repository contains Python code and documentation for performing Market Basket Analysis (MBA) on an e-commerce dataset. Market Basket Analysis is a technique used to uncover associations between items purchased together by customers.
+This repository contains Python code and documentation for performing Market Basket Analysis (MBA) on an e-commerce dataset. 
+Market Basket Analysis is a technique used to uncover associations between items purchased together by customers.
 
 **Overview**
 Market Basket Analysis is a crucial method in understanding customer purchasing behavior, allowing businesses to derive insights for product placement, promotions, and recommendations. This project explores the association rules among items bought by customers in an e-commerce setting.
